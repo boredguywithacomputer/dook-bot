@@ -10,7 +10,7 @@ dook is a multipurpose discord bot. It can do all sorts of things, from playing 
 | /set-playlist (playlisturl)  | Sets a user's playlist to a link, allowing their playlist to be played by themselves and others. |
 | /search (videoname)          | Search for the link of a youtube video.                                                          |
 | /skip                        | Skips the current song, if a playlist is playing.                                                |
-| /ssid (latitude) (longitude) | Returns a list of SSIDs based on a given lat and long, covering ±0.0005 degrees.                 |
+| /ssid (latitude) (longitude) | Returns a list of SSIDs based on a given lat and long, covering ±0.00003 degrees.                |
 | /geocode (location name)     | Searches a place and gives information about it.                                                 |
 | /shits                       | Know your shits!                                                                                 |
 | /leave                       | Disconnects the bot from the voice channel while playing a song/playlist                         |
