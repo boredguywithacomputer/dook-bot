@@ -42,3 +42,15 @@ Enter the project directory and run `node index`
 ## Notes
 - Most of this thing is based off of yt-dlp. Instead of loading videos in chunks, I chose to download entire songs to a file and play from it. This reduces the likelyhood of the song cutting out in the middle, and the bot subsequently leaving the voice channel due to inactivity.  
 - WiGle's api rate limits start extremely low, but increase over time and by participating, hence the command being locked down to owner only.
+
+
+## Dependencies and Credits
+- yt-dlp
+- discord.js<br>
+- @discordjs/voice
+- axios
+- lowdb
+- yt-dlp nodejs
+- WiGle
+- openstreetmap
+- thanks to my friends for voluntarily testing and finding a bunch of bugs
