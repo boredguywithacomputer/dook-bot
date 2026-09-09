@@ -36,6 +36,7 @@ dook is a multipurpose discord bot. It can do all sorts of things, from playing 
 <img width="1240" height="69" alt="image" src="https://github.com/user-attachments/assets/b26b0f26-c459-42c3-a1a4-0ccb93bd3bf2"></img>
 
 ## Run the bot
+Run `npm install`<br>
 Enter the project directory and run `node index`
 
 ## Notes
