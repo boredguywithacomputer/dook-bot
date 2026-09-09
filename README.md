@@ -1,6 +1,11 @@
 # dook-bot
 dook is a multipurpose discord bot. It can do all sorts of things, from playing music to doxxing!! Its named after a friend of mine.
 
+
+<img width="566" height="215" alt="image" src="https://github.com/user-attachments/assets/8f1a6e82-3b28-43bb-beb9-ab66ca87a650" />
+<img width="447" height="87" alt="image" src="https://github.com/user-attachments/assets/1baabc0d-8f32-401f-adf2-203c6ff3b892" />
+<img width="605" height="342" alt="image" src="https://github.com/user-attachments/assets/8a002a20-1af4-4101-9eb2-2a67bc7dbf68" />
+
 # Commands
 | Name                         | Description                                                                                      |
 |------------------------------|--------------------------------------------------------------------------------------------------|
@@ -15,10 +20,6 @@ dook is a multipurpose discord bot. It can do all sorts of things, from playing 
 | /shits                       | Know your shits!                                                                                 |
 | /leave                       | Disconnects the bot from the voice channel while playing a song/playlist                         |
 | /ping                        | Useless test command                                                                             |
-
-<img width="566" height="215" alt="image" src="https://github.com/user-attachments/assets/8f1a6e82-3b28-43bb-beb9-ab66ca87a650" />
-<img width="447" height="87" alt="image" src="https://github.com/user-attachments/assets/1baabc0d-8f32-401f-adf2-203c6ff3b892" />
-<img width="605" height="342" alt="image" src="https://github.com/user-attachments/assets/8a002a20-1af4-4101-9eb2-2a67bc7dbf68" />
 
 # Requirements
 - NodeJS v20+ (maybe previous versions work but I have not tested them)<br>
