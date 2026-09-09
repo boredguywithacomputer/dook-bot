@@ -27,7 +27,7 @@ dook is a multipurpose discord bot. It can do all sorts of things, from playing 
 # Host your own dook bot!!
 ## Clone the repo
 ```git clone https://github.com/boredguywithacomputer/dook-bot.git```
-## Rename .env.example to .env and set it up
+## Modify the example .env file
 - Your Discord bot token can be acquired from the Discord Developer Portal<br>
 - A Google Cloud API key with the Youtube Data API enabled<br>
 - Get a WiGle auth from the account page. It should like like the image below:<br>
