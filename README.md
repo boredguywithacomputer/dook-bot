@@ -1,6 +1,6 @@
 # dook-bot
 dook is a multipurpose discord bot. It can do all sorts of things, from playing music to doxxing!! Its named after a friend of mine.
-
+<a href="https://discord.gg/ZBbQc37vv">Here's a demo video!!</a><br><br>
 
 <img width="566" height="215" alt="image" src="https://github.com/user-attachments/assets/8f1a6e82-3b28-43bb-beb9-ab66ca87a650" />
 <img width="447" height="87" alt="image" src="https://github.com/user-attachments/assets/1baabc0d-8f32-401f-adf2-203c6ff3b892" />
